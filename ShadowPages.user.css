@@ -1,13 +1,13 @@
 /* ==UserStyle==
 @name           Shadow Pages (Hide your webpage)
 @namespace      kckarnige.is-a.dev
-@version        2.0.0
+@version        2.0.1
 @description    Great for discouraging prying eyes
 @author         KayoticCarnige
 ==/UserStyle== */
 
 body:before {
-	background: #000000d3 !important;
+	background: #000000ad !important;
 	content: " ";
 	width: 100%;
 	height: 100%;
